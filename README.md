@@ -112,10 +112,6 @@ Files are saved in `/uploads` directory with extracted metadata saved in MongoDB
 
 ## 📌 API Endpoints
 
-### 👤 User Management
-
-- `POST /api/users` – Create user
-
 ### 📄 Submissions
 
 - `POST /api/submissions` – Create submission (protected)
