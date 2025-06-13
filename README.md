@@ -42,8 +42,7 @@ It is developed as part of a technical assignment for a MERN Stack Developer rol
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/user-submission-tracker.git
-cd user-submission-tracker
+git clone https://github.com/ShubhamP528/userTrack-Assigment.git
 ```
 
 ### 2. Install Dependencies
